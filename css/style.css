@@ -224,7 +224,7 @@ header .navbar {
    Home page style
    ================= */
 #banner {
-  background: url('../img/banner.jpg');
+  background: url('https://bitcoin.tumblr.com/image/183429337670');
   background-size: cover;
   padding: 250px 0;
   position: relative;
